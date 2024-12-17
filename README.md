@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vipin Dabas
 - 👀 I’m interested in .Net, React, Cloud, and many more tech things
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on .Net projects
 - 📫 How to reach me dabasvipin6@gmail.com
 
