@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vipin Dabas
-- 👀 I’m interested in .Net, React, Cloud, and many more tech things
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on .Net projects
+- 👀 I’m interested in Platform Engineering, Webassembly, Rust, Go, .Net, React, Azure Cloud, and many more tech things
+- 🌱 I’m currently working with Backstage
+- 💞️ I’m looking to collaborate on platform engineering projects
 - 📫 How to reach me dabasvipin6@gmail.com
 
 <!---
